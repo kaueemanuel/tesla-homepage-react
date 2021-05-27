@@ -30,7 +30,7 @@ export const Buttons = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 130px;
+  margin-bottom: 130px !important;
 
   > button {
     background: #1a1720;
